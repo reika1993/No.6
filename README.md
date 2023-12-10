@@ -1,3 +1,3 @@
 # このプロジェクトについて
 
-このプロジェクトでは、Spring Bootを使って"HelloWorld!"を表示します。
+このプロジェクトでは、Spring Bootを使って、ランダムに世界の言語の"HelloWorld"を表示します。
