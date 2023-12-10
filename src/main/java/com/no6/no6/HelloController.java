@@ -15,6 +15,7 @@ public class HelloController {
         greet.add("Hei maailma");
         greet.add("Bonjour le monde");
         greet.add("こんにちは　世界");
+        greet.add("Привет, мир");
         Collections.shuffle(greet);
         return greet.get(1);
     }
